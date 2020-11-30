@@ -1,0 +1,5 @@
+#Ignore
+ssl/*
+
+#Except
+!ssl/instructions.sh
