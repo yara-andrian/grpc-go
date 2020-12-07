@@ -1,5 +1,6 @@
 #Ignore
 ssl/*
+mongo-volume/*
 
 #Except
 !ssl/instructions.sh
